@@ -4,7 +4,6 @@ I have created this employee management system for Colombo Institute of Studies 
 Technology:
 
 ✅Java 8
-
 ✅OOP Concepts
 ✅SQL
 ✅XAMPP Server
